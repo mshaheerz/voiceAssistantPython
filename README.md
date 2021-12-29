@@ -1,18 +1,17 @@
 # voiceAssistantPython
-<h2>installation</h2>
-` pip install speechrecognition `
+*installation
+`pip install speechrecognition`
+`pip install gTTS`
 
-``` pip install gTTS
+`pip install wheel`
 
-pip install wheel
+`pip install pipwin`
 
-pip install pipwin
+`pipwin install pyaudio`
 
-pipwin install pyaudio
+`python3 -m pip install pyobj`
 
-python3 -m pip install pyobj
+`pip install weathercom`
 
-pip install weathercom
-
-pip install playsound
+`pip install playsound`
 
