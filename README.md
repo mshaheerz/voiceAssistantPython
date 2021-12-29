@@ -17,7 +17,7 @@
 
 `pip install playsound`
 
-#code
+# code
 
 
 ```import speech_recognition as sr
@@ -79,4 +79,4 @@ def weatherReport(city):
 while True:
     command = voice_command_processor()
     print(command)
-    execute_voice_command(command)```
+    execute_voice_command(command)
