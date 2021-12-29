@@ -1,7 +1,7 @@
 # voiceAssistantPython
 <h2>installation</h2>
 
-pip install speechrecognition
+'''pip install speechrecognition'''
 
 pip install gTTS
 
