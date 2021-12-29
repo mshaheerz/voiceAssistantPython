@@ -1,6 +1,8 @@
 # voiceAssistantPython
-*installation
+# installation
+
 `pip install speechrecognition`
+
 `pip install gTTS`
 
 `pip install wheel`
